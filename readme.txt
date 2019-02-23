@@ -4,3 +4,5 @@ this cammand is to test
 this cammand is to test1
 1
 2
+readme
+
